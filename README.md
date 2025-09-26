@@ -1,13 +1,12 @@
-<h1>Habilidades<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px>  </picture></h1>
-<div align="center">
+<div>
+    <h1>Habilidades<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px>  </picture></h1>
     <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,c,js,html,css" />
       </a>
     </p> 
 </div>
-
-<div align="center">
+<div>
     <h1>Tecnologias Frontend <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px></picture></h1>
     <p align="center">
       <a href="https://skillicons.dev">
@@ -16,7 +15,7 @@
     </p>  
 </div>
 
-<div align="center">
+<div>
     <h1>Redes</h1>
     <p align="center">
       <a href="https://skillicons.dev">
