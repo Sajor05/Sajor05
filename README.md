@@ -7,7 +7,7 @@
     </p> 
 </div>
 <div>
-    <h1>Tecnologias<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px></picture></h1>
+    <h1>Tecnologias <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px></picture></h1>
     <p>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,django,bootstrap,sass,tailwind,vite" />
