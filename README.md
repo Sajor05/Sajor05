@@ -24,7 +24,7 @@
     </p>
 </div>
 <div>
-    <h1>Herramientas y IDEs <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 40px>  </picture> </picture></h1>
+    <h1>Herramientas y IDEs <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 30px>  </picture> </picture></h1>
     <p align="center">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,ai,vscode,eclipse" />
