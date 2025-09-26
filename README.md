@@ -2,7 +2,7 @@
     <h1>Habilidades <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture></h1>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,c,js,html,css, aws" />
+        <img src="https://skillicons.dev/icons?i=py,c,js,html,css,aws" />
       </a>
     </p> 
 </div>
