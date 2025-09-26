@@ -10,3 +10,6 @@
     <img src="https://skillicons.dev/icons?i=react,django,bootstrap,sass,js,tailwind" />
   </a>
 </p>
+<div align="center">
+    <h1>Redes</h1>
+</div>
