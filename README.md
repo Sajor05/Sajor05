@@ -2,7 +2,7 @@
     <h1>Stack de Tecnologías><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px></picture></h1>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,tailwind" />
+        <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,js,html,css,tailwind" />
       </a>
     </p>  
 </div>
@@ -11,7 +11,7 @@
     <h1>Habilidades <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture></h1>
     <p>
       <a href="#">
-        <img src="https://skillicons.dev/icons?i=py,c,js,html,css,aws" />
+        <img src="https://skillicons.dev/icons?i=py,c,aws" />
       </a>
     </p> 
 </div>
