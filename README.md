@@ -32,7 +32,7 @@
       <a href="https://www.instagram.com/ffffffffabrizio/">
         <img src="https://skillicons.dev/icons?i=instagram" />
       </a>
-      <a href="https://skillicons.dev](https://www.linkedin.com/in/fabrizio-alexander-rojas-4a8051381/">
+      <a href="https://www.linkedin.com/in/fabrizio-alexander-rojas-4a8051381/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
       </a>
     </p>
