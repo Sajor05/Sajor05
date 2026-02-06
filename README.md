@@ -23,16 +23,26 @@
 <div>
     <h1>Redes <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 30px></picture></h1>
     <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=discord,gmail,instagram,linkedin" />
+      <a href="https://skillicons.dev](https://discord.com/users/fffffffabrizio">
+        <img src="https://skillicons.dev/icons?i=discord" />
+      </a>
+      <a href="mailto:fabrizioalexander.rojas@estudiantes.unahur.edu.ar">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+      </a>
+      <a href="https://www.instagram.com/ffffffffabrizio/">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+      </a>
+      <a href="https://skillicons.dev](https://www.linkedin.com/in/fabrizio-alexander-rojas-4a8051381/">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
       </a>
     </p>
 </div>
 <div>
     <h1>Herramientas y IDEs <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 30px>  </picture> </picture></h1>
     <p>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,ai,vscode,eclipse,vite"" />
-      </a>
+        <img src="https://skillicons.dev/icons?i=git"" />
+        <img src="https://skillicons.dev/icons?i=vscode"" />
+        <img src="https://skillicons.dev/icons?i=vite"" />
+        <img src="https://skillicons.dev/icons?i=ai"" />
     </p>
 </div>
