@@ -16,7 +16,6 @@
       <img src="https://skillicons.dev/icons?i=js" />
       <img src="https://skillicons.dev/icons?i=py" />
       <img src="https://skillicons.dev/icons?i=c" />
-      <img src="https://skillicons.dev/icons?i=mongodb" />
     </div> 
 </div>
 
@@ -44,5 +43,6 @@
         <img src="https://skillicons.dev/icons?i=vscode"" />
         <img src="https://skillicons.dev/icons?i=vite"" />
         <img src="https://skillicons.dev/icons?i=ai"" />
+        <img src="https://skillicons.dev/icons?i=mongodb" />
     </p>
 </div>
