@@ -26,7 +26,7 @@
       <a href="https://skillicons.dev](https://discord.com/users/fffffffabrizio">
         <img src="https://skillicons.dev/icons?i=discord" />
       </a>
-      <a href="mailto:fabrizioalexander.rojas@estudiantes.unahur.edu.ar">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fabrizioalexander.rojas@estudiantes.unahur.edu.ar">
         <img src="https://skillicons.dev/icons?i=gmail" />
       </a>
       <a href="https://www.instagram.com/ffffffffabrizio/">
