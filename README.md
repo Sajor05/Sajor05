@@ -23,7 +23,7 @@
 <div>
     <h1>Redes <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 30px></picture></h1>
     <p>
-      <a href="https://skillicons.dev](https://discord.com/users/fffffffabrizio">
+      <a href="https://discord.com/users/fffffffabrizio">
         <img src="https://skillicons.dev/icons?i=discord" />
       </a>
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fabrizioalexander.rojas@estudiantes.unahur.edu.ar">
